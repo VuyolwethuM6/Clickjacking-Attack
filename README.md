@@ -1,4 +1,4 @@
-# Clickjacking Attack - README
+# Clickjacking Attack
 
 ## Introduction
 
